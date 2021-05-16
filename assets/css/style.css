@@ -199,6 +199,9 @@ hero.responsive {
   width: 33.33333333%;
   }
 
+.flex-split p {
+  color: var(--secondary-color);
+}
 
 .flex-split img {
   border-radius: 25%;
@@ -234,9 +237,9 @@ div.design-bio {
   padding: 10px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-between;
   background-color: var(--primary-color);
-  border-radius: 25px;
+  border-radius: 35px;
 }
 
 .design {
@@ -245,14 +248,14 @@ div.design-bio {
   background: var(--tertiary-shade);
   color: var(--primary-color);  
   border-radius: 25px;
-  padding-bottom: 20px;
-  border: 6px solid goldenrod;
+  padding-bottom: 5px;
+  border: 10px solid goldenrod;
 }
 
 .design img {
   width: 100%;
   background-color: var(--tertiary-shade);
-  border-radius: 25px 25px 0 0;
+  border-radius: 20px 20px 0 0;
 }
 
 .design img:hover {
@@ -261,7 +264,7 @@ div.design-bio {
 
 
 .design-bio {
-  padding: 25px;
+  padding: 20px;
   line-height: 1.3;
 }
 
