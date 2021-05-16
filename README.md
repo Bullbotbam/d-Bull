@@ -1,6 +1,4 @@
-# d-Bull
- 
- # D. Bull Portfolio
+# D. Bull Portfolio
 
 ## Purpose
 A website that offers a glimpse into the creative world of D. Bull 
