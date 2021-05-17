@@ -11,7 +11,7 @@ A website that offers a glimpse into the creative world of D. Bull
 use the link to visit the page.  Here are screenshots to make it easier to find.
 
 
-![cssExploration](https://github.com/Bullbotbam/cssExploration/blob/main/Assets/images/portfolio-1.png)
+![cssExploration](https://github.com/Bullbotbam/d-Bull/blob/main/assets/images/portfolio.png)
 
 
 
