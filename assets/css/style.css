@@ -204,7 +204,8 @@ hero.responsive {
 }
 
 .flex-split img {
-  border-radius: 25%;
+  border-radius: 500px;
+  
 }
 
 /* Who is d.Bull Style Ends*/
